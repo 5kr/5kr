@@ -8,7 +8,7 @@
 
 <h2> About Suresh Kumar⚡:</h2>
 
-I love to read, enjoy music and explore nature outdoors.
+I'm a passionate Data Science Enthusiast. I love to read, enjoy music and explore nature outdoors.
 
 <h2>📫 How to reach me:</h2>
 
