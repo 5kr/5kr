@@ -1,5 +1,5 @@
 # 5kr
-![https://github.com/5kr/5kr](./project.png)
+![https://github.com/5kr](./project.png)
 
 <h2>Hi, I'm Suresh Kumar 👋</h2>
 
