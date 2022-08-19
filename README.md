@@ -8,9 +8,9 @@
 
 <a href="https://github.com/5kr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=5kr&theme=radical"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5kr&theme=dark"/>
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=5kr&theme=dark)](https://github.com/5kr/github-readme-streak-stats)
 
 <a href="https://github.com/5kr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=5kr&theme=radical" />
