@@ -1,5 +1,5 @@
 # 5kr
-![](./project.png)
+![](./sk.gif)
 
 <h2>Hi, I'm Suresh Kumar 👋</h2>
 
