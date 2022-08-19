@@ -6,6 +6,8 @@
 - <i>Currently:</i> Student at University Of Texas at Austin, McCombs School Of Business. 
 - <i>Previously:</i> Software Engineer.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=5kr&theme=radical" />
+
 <h2> About Suresh Kumar⚡:</h2>
 
 I'm a passionate Data Science Enthusiast. I love to read, enjoy music and explore nature outdoors.
