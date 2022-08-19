@@ -8,6 +8,7 @@
 
 <a href="https://github.com/5kr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=5kr&theme=radical"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5kr&theme=dark"/>
 </a>
 
 <a href="https://github.com/5kr/github-readme-stats">
@@ -18,6 +19,8 @@
 <h2> About Suresh Kumar⚡:</h2>
 
 I'm a passionate Data Science Enthusiast. I love to read, enjoy music and explore nature outdoors.
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 <h2>📫 How to reach me:</h2>
 
