@@ -15,6 +15,9 @@
 </a>
 
 
+<a href="https://github.com/5kr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=5kr&theme=radical" />
+</a>
 
 
 <h2> About Suresh Kumar⚡:</h2>
